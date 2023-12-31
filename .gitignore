@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/xlr8.metadata.v7.bin
+*.bin
+*.v2
+/.vs/XLR8/FileContentIndex/0b098e37-1efa-4724-92b7-a2eebd5579ce.vsidx
+/.vs/XLR8/FileContentIndex/52ffd89f-18f2-4956-9f1d-f0e52351dfe6.vsidx
+/.vs/XLR8/FileContentIndex/a0f24268-ddbf-4634-a0ee-383c03c9b054.vsidx
+/.vs/XLR8/FileContentIndex/a6f7f6ad-45f3-46e7-afdb-82df10754a3a.vsidx
+/.vs/XLR8/FileContentIndex/cf437d00-ef12-4621-95f7-01fb50ffb223.vsidx

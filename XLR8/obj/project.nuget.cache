@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nnizu1J/unHpyvDlY8Jb/JnIWDkaXgFycUePsvnpjjiB9nOJVZhXwu7ALVQ5ddgcIfSh0P5DuAQnBPZ72HQEWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\info\\Documents\\Sarang\\XLR8\\XLR8\\XLR8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\info\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
